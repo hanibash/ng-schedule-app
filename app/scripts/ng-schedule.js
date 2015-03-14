@@ -384,6 +384,6 @@ angular.module('ngSchedule', [])
       }
     },
     // TODO: change this to template strings when finished
-    templateUrl: 'scripts/ng-schedule.html'
+    templateUrl: 'ng-schedule.html'
   };
 })
